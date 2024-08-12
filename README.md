@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web-Exploitation
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me : godwishkrishu@gmail.com
-- 😄 Pronouns: Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't just code - I ethically hack for fun, ensuring the internet sleeps safe and sound !
 
 <!---
